@@ -1,2 +1,1 @@
-# hexo
-My hexo blog source.
+# My hexo blog source.
